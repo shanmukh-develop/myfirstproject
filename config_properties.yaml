@@ -1,0 +1,10 @@
+listener:
+ host: "localhost"
+ port: "8118"
+ path: "/properties"
+ 
+constant:
+ logger: "Hello" 
+ transform:
+  constant_1: "Hello"
+  constant_2: "Hello Akhil"
